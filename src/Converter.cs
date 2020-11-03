@@ -33,7 +33,7 @@ namespace AbletonConvert
                 UnpackGzip();
                 EditFileContent();
                 RepackAndClean();
-                Console.WriteLine("Done.");
+                Console.WriteLine("Done. Press any key to exit...");
             }
         }
 

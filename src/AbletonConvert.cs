@@ -37,6 +37,7 @@ namespace AbletonConvert
                 if (isPathValid)
                     Converter.Convert();
             }    
+            Console.ReadLine();
         }
 
         static void MainLoop()
