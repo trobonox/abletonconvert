@@ -1,6 +1,9 @@
 # AbletonConvert
-[![Codacy Badge](https://app.codacy.com/project/badge/Grade/6f044f32cbd94e51865cd40bfb0de839)](https://www.codacy.com?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=trobonox/abletonconvert&amp;utm_campaign=Badge_Grade)
 ![Build](https://github.com/trobonox/abletonconvert/workflows/Build/badge.svg)
+![Codacy Badge](https://img.shields.io/codacy/grade/7aaa8befa9f34ac79f9834597e5f6b4a)
+![License](https://img.shields.io/github/license/trobonox/abletonconvert)
+![Release](https://img.shields.io/github/v/release/trobonox/abletonconvert)
+
 
 AbletonConvert is a Tool that allows you to use Ableton Live 10.1.x Files in Version 10.0.x. This is especially useful for people who want to get better performance in Ableton Projects which don't use the new features of Live 10.1. A good example are Launchpad Covers with complex Lightshows, which get a performance boost in 10.0.x.
 
