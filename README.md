@@ -45,7 +45,7 @@ Please also include a brief description that includes these points:
 
 ## License
 ``` 
-Copyright 2020 Trobonox (trobonox.dev@gmail.com)
+Copyright 2020 - 2022 Trobonox (trobonox.dev@gmail.com)
 
 Licensed under the Apache License, Version 2.0 (the "License");
 you may not use this file except in compliance with the License.
