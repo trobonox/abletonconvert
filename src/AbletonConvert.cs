@@ -1,5 +1,5 @@
 /*
- Copyright 2020 Trobonox (trobonox.dev@gmail.com)
+ Copyright 2020 - 2022 Trobonox (trobonox.dev@gmail.com)
 
    Licensed under the Apache License, Version 2.0 (the "License");
    you may not use this file except in compliance with the License.
@@ -26,12 +26,12 @@ namespace AbletonConvert
             Console.Title = "AbletonConvert";
             if (args.Length == 0)
             {                
-                Console.WriteLine("AbletonConvert [Version 0.1.0]\n(c) 2020 Trobonox. All rights reserved.\n");
+                Console.WriteLine("AbletonConvert [Version 0.1.0]\n(c) 2020 - 2022 Trobonox. All rights reserved.\n");
                 MainLoop();                
             }
             else
             {
-                Console.WriteLine("AbletonConvert (c) 2020 Trobonox.");
+                Console.WriteLine("AbletonConvert (c) 2020 - 2022 Trobonox.");
                 Console.WriteLine("\nConverting...");
                 var isPathValid = Init(args[0]);
                 if (isPathValid)
