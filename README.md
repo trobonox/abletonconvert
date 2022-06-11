@@ -7,6 +7,8 @@
 
 AbletonConvert is a Tool that allows you to use Ableton Live 10.1.x Files in Version 10.0.x. This is especially useful for people who want to get better performance in Ableton Projects which don't use the new features of Live 10.1. A good example are Launchpad Covers with complex Lightshows, which get a performance boost in 10.0.x.
 
+Please note: as there is no high demand for this software anymore, it is not being maintained. If you find a critical bug you can report it by opening an issue and it will probably get fixed.
+
 ## Getting started
 Prerequisites: to run the Tool, you need to make sure that you have the .NET Core SDK/Runtime installed. You can download it here: https://dotnet.microsoft.com/download/.
 
